@@ -1,0 +1,2 @@
+class RepositoryExceptions(Exception):
+    pass

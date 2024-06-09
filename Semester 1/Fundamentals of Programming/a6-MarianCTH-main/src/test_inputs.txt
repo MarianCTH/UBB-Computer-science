@@ -1,0 +1,13 @@
+insert 1 10 internet
+add 25 food
+add 1250 repairs
+insert 2 13 test
+insert 3 15 test
+insert 15 30 internet
+insert 30 20 internet
+list
+
+list internet
+list test < 14
+filter internet
+filter internet < 14
